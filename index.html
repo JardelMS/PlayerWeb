@@ -42,7 +42,7 @@
     // Obter o URL da query string
     var queryString = window.location.search;
     var urlParams = new URLSearchParams(queryString);
-    var url = urlParams.get('url');
+    var url = decodeURIComponent(urlParams.get('url'));
     
     // Atualizar a origem do vídeo com o URL fornecido na query string
     if (url) {
