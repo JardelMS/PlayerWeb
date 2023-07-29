@@ -1,0 +1,608 @@
+[
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-paramountplus1.jpg",
+    "title": "Paramount+ 1",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=paramountplus1"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-paramountplus2.jpg",
+    "title": "Paramount+ 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=paramountplus2"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo1.jpg",
+    "title": "Prime Video 1",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=primevideo1"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo2.jpg",
+    "title": "Prime Video 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=primevideo2"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo3.jpg",
+    "title": "Prime Video 3",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=primevideo3"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo4.jpg",
+    "title": "Prime Video 4",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=primevideo4"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbTZlO-ga0ZPeap9rnYZzlHAzCdrHlORpVEQ&usqp=CAU",
+    "title": "Star+ Channel",
+    "url": "https://playertv.net/tv.php?c=star"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-starplus1.jpg",
+    "title": "Star+ 1",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=starplus1"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-starplus2.jpg",
+    "title": "Star+ 2",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=starplus2"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-starplus3.jpg",
+    "title": "Star+ 3",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=starplus3"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-ufcfightpass.jpg",
+    "title": "UFC Fight Pass",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=ufcfightpass"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvl0DDC0jMmxcRs5Ic9E6K0ke6sLI-J_wqhA&usqp=CAU",
+    "title": "NBA TV",
+    "url": "https://playertv.net/tv.php?c=nba"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-aie.jpg",
+    "title": "A\u0026E",
+    "url": "https://playertv.net/tv.php?c=ae"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-amc.jpg",
+    "title": "AMC",
+    "url": "https://playertv.net/tv.php?c=amc"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-animalplanet.jpg",
+    "title": "Animal Planet",
+    "url": "https://playertv.net/tv.php?c=animal-planet"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-arte1.jpg",
+    "title": "Arte 1",
+    "url": "https://playertv.net/tv.php?c=arte1"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-axn.jpg",
+    "title": "AXN",
+    "url": "https://playertv.net/tv.php?c=axn"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-band.jpg",
+    "title": "Band",
+    "url": "https://playertv.net/tv.php?c=band"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-bandnews.jpg",
+    "title": "Band News",
+    "url": "https://playertv.net/tv.php?c=band-news"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-bandsports.jpg",
+    "title": "Band Sports",
+    "url": "https://playertv.net/tv.php?c=band-sports"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-bis.jpg",
+    "title": "BIS",
+    "url": "https://playertv.net/tv.php?c=bis"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-canalbrasil.jpg",
+    "title": "Canal Brasil",
+    "url": "https://playertv.net/tv.php?c=canal-brasil"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cancaonova.jpg",
+    "title": "Canção Nova",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=cancaonova"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cartoon.jpg",
+    "title": "Cartoon Network",
+    "url": "https://playertv.net/tv.php?c=cartoon"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cartoonito.jpg",
+    "title": "Cartoonito",
+    "url": "https://playertv.net/tv.php?c=cartoonito"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cinecanal.jpg",
+    "title": "Cinecanal",
+    "url": "https://playertv.net/tv.php?c=cine-canal"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cinemax.jpg",
+    "title": "Cinemax",
+    "url": "https://playertv.net/tv.php?c=cinemax"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-cnnbrasil.jpg",
+    "title": "CNN Brasil",
+    "url": "https://playertv.net/tv.php?c=cnn"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-combate.jpg",
+    "title": "Combate",
+    "url": "https://playertv.net/tv.php?c=combate"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-comedycentral.jpg",
+    "title": "Comedy Central",
+    "url": "https://playertv.net/tv.php?c=comedy-central"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-curta.jpg",
+    "title": "Curta!",
+    "url": "https://playertv.net/tv.php?c=curta"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discovery.jpg",
+    "title": "Discovery Channel",
+    "url": "https://playertv.net/tv.php?c=d-channel"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoveryhomeihealth.jpg",
+    "title": "Discovery Home \u0026 Health",
+    "url": "https://playertv.net/tv.php?c=d-hh"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoverykids.jpg",
+    "title": "Discovery Kids",
+    "url": "https://playertv.net/tv.php?c=d-kids"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoverysience.jpg",
+    "title": "Discovery Science",
+    "url": "https://playertv.net/tv.php?c=d-science"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoverytheater.jpg",
+    "title": "Discovery Theater",
+    "url": "https://playertv.net/tv.php?c=d-theater"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoveryturbo.jpg",
+    "title": "Discovery Turbo",
+    "url": "https://playertv.net/tv.php?c=d-turbo"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-discoveryworld.jpg",
+    "title": "Discovery World",
+    "url": "https://playertv.net/tv.php?c=d-world"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-disney.jpg",
+    "title": "Disney Channel",
+    "url": "https://playertv.net/tv.php?c=disney"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-canale.jpg",
+    "title": "E! Entertainment",
+    "url": "https://playertv.net/tv.php?c=entertainment"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-espn.jpg",
+    "title": "ESPN",
+    "url": "https://playertv.net/tv.php?c=espn"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-espn2.jpg",
+    "title": "ESPN 2",
+    "url": "https://playertv.net/tv.php?c=espn2"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-espn3.jpg",
+    "title": "ESPN 3",
+    "url": "https://playertv.net/tv.php?c=espn3"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-espn4.jpg",
+    "title": "ESPN 4",
+    "url": "https://playertv.net/tv.php?c=espn4"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-espnextra.jpg",
+    "title": "ESPN Extra",
+    "url": "https://playertv.net/tv.php?c=espn-extra"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-foodnetwork.jpg",
+    "title": "Food Network",
+    "url": "https://playertv.net/tv.php?c=food-network"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-foxsports2.jpg",
+    "title": "Fox Sports 2",
+    "url": "https://playertv.net/tv.php?c=fox-sports2"
+  },
+  {
+    "img": "https://d3un0zjblgkxzb.cloudfront.net/drupal/public/styles/imagem_paragraph_foto/public/media/image/2022-07/Futura%20logo%20nova.jpg.jpeg?VersionId=8Mgo6315Gr_OKG6rgM9zsEZFQxpX_MfW&itok=p8tcAFep",
+    "title": "Futura",
+    "url": "https://playertv.net/tv.php?c=futura"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-fx.jpg",
+    "title": "FX",
+    "url": "https://playertv.net/tv.php?c=fx"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-globonews.jpg",
+    "title": "Globo News",
+    "url": "https://playertv.net/tv.php?c=globo-news"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
+    "title": "Globo BA",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=bobonordeste"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
+    "title": "Globo MG",
+    "url": "https://playertv.net/tv.php?c=globo-mg"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-bobosp.jpg",
+    "title": "Globo PE",
+    "url": "https://playertv.net/tv.php?c=globo-pe"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
+    "title": "Globo RJ",
+    "url": "https://playertv.net/tv.php?c=globo-rj"
+  },
+ {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
+    "title": "Globo RS",
+    "url": "https://playertv.net/tv.php?c=globo-rs"
+  },
+  {
+    "img": "https://playertv.net/tv.php?c=globo-sp",
+    "title": "Globo SP",
+    "url": "https://playertv.net/tv.php?c=globo-sp"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-gloob.jpg",
+    "title": "Gloob",
+    "url": "https://playertv.net/tv.php?c=gloob"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-gloobinho.jpg",
+    "title": "Gloobinho",
+    "url": "https://playertv.net/tv.php?c=globinho"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-gnt.jpg",
+    "title": "GNT",
+    "url": "https://playertv.net/tv.php?c=gnt"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbo.jpg",
+    "title": "HBO",
+    "url": "https://playertv.net/tv.php?c=hbo"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbo2.jpg",
+    "title": "HBO 2",
+    "url": "https://playertv.net/tv.php?c=hbo2"
+  },
+  
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbofamily.jpg",
+    "title": "HBO Family",
+    "url": "https://playertv.net/tv.php?c=hbo-family"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbomundi.jpg",
+    "title": "HBO Mundi",
+    "url": "https://playertv.net/tv.php?c=hbo-mundi"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hboplus.jpg",
+    "title": "HBO Plus",
+    "url": "https://playertv.net/tv.php?c=hbo-plus"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbopop.jpg",
+    "title": "HBO Pop",
+    "url": "https://playertv.net/tv.php?c=hbo-pop"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hbosignature.jpg",
+    "title": "HBO Signature",
+    "url": "https://playertv.net/tv.php?c=hbo-signature"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hboxtreme.jpg",
+    "title": "HBO Xtreme",
+    "url": "https://playertv.net/tv.php?c=hbo-xtreme"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-hgtv.jpg",
+    "title": "HGTV",
+    "url": "https://playertv.net/tv.php?c=hgtv"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-history.jpg",
+    "title": "History Channel",
+    "url": "https://playertv.net/tv.php?c=history"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-investigacaodiscovery.jpg",
+    "title": "Investigação Discovery",
+    "url": "https://playertv.net/tv.php?c=d-id"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-lifetime.jpg",
+    "title": "Lifetime",
+    "url": "https://playertv.net/tv.php?c=lifetime"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-megapix.jpg",
+    "title": "Megapix",
+    "url": "https://playertv.net/tv.php?c=megapix"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-modoviagem.jpg",
+    "title": "Modo Viagem",
+    "url": "https://playertv.net/tv.php?c=modo-viagem"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-mtv.jpg",
+    "title": "MTV",
+    "url": "https://playertv.net/tv.php?c=mtv"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-mtvlive.jpg",
+    "title": "MTV Live",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=mtvlive"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-multishow.jpg",
+    "title": "Multishow",
+    "url": "https://playertv.net/tv.php?c=multishow"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-natgeo.jpg",
+    "title": "National Geographic Channel",
+    "url": "https://playertv.net/tv.php?c=nat-geo"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-nickjr.jpg",
+    "title": "Nick Jr.",
+    "url": "https://playertv.net/tv.php?c=nick-jr"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-nick.jpg",
+    "title": "Nickelodeon: Nick",
+    "url": "https://playertv.net/tv.php?c=nick-jr"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-off.jpg",
+    "title": "Off",
+    "url": "https://playertv.net/tv.php?c=off"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-paramount.jpg",
+    "title": "Paramount Channel",
+    "url": "https://playertv.net/tv.php?c=paramount"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiereclubes.jpg",
+    "title": "Premiere Clubes",
+    "url": "https://playertv.net/tv.php?c=premiere"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere2.jpg",
+    "title": "Premiere 2",
+    "url": "https://playertv.net/tv.php?c=premiere2"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere3.jpg",
+    "title": "Premiere 3",
+    "url": "https://playertv.net/tv.php?c=premiere3"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere4.jpg",
+    "title": "Premiere 4",
+    "url": "https://playertv.net/tv.php?c=premiere4"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere5.jpg",
+    "title": "Premiere 5",
+    "url": "https://playertv.net/tv.php?c=premiere5"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere6.jpg",
+    "title": "Premiere 6",
+    "url": "https://playertv.net/tv.php?c=premiere6"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere7.jpg",
+    "title": "Premiere 7",
+    "url": "https://playertv.net/tv.php?c=premiere7"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere8.jpg",
+    "title": "Premiere Clubes Opção 2",
+    "url": "https://playertv.net/tv.php?c=premiere-op2"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-recordnews.jpg",
+    "title": "Record News",
+    "url": "https://playertv.net/tv.php?c=record-news"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-record.jpg",
+    "title": "Record TV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=record"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-redetv.jpg",
+    "title": "Rede TV",
+    "url": "https://playertv.net/tv.php?c=redetv"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-sbt.jpg",
+    "title": "SBT",
+    "url": "https://playertv.net/tv.php?c=sbt"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-sony.jpg",
+    "title": "Sony",
+    "url": "https://playertv.net/tv.php?c=sony"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-space.jpg",
+    "title": "Space",
+    "url": "https://playertv.net/tv.php?c=space"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-sportv1.jpg",
+    "title": "SporTV 1",
+    "url": "https://playertv.net/tv.php?c=spt1"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-sportv2.jpg",
+    "title": "SporTV 2",
+    "url": "https://playertv.net/tv.php?c=spt2"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-sportv3.jpg",
+    "title": "SporTV 3",
+    "url": "https://playertv.net/tv.php?c=spt3"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-starchannel.jpg",
+    "title": "Star Channel",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=starchannel"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-studiouniversal.jpg",
+    "title": "Studio Universal",
+    "url": "https://playertv.net/tv.php?c=studio-universal"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-syfy.jpg",
+    "title": "Syfy",
+    "url": "https://playertv.net/tv.php?c=syfy"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
+    "title": "TCM",
+    "url": "https://playertv.net/tv.php?c=tcm"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecineaction.jpg",
+    "title": "Telecine Action",
+    "url": "https://playertv.net/tv.php?c=tc-action"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinecult.jpg",
+    "title": "Telecine Cult",
+    "url": "https://playertv.net/tv.php?c=tc-cult"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinefun.jpg",
+    "title": "Telecine Fun",
+    "url": "https://playertv.net/tv.php?c=tc-fun"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinepipoca.jpg",
+    "title": "Telecine Pipoca",
+    "url": "https://playertv.net/tv.php?c=tc-pipoca"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinepremium.jpg",
+    "title": "Telecine Premium",
+    "url": "https://playertv.net/tv.php?c=tc-premium"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinetouch.jpg",
+    "title": "Telecine Touch",
+    "url": "https://playertv.net/tv.php?c=tc-touch"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tlc.jpg",
+    "title": "TLC",
+    "url": "https://playertv.net/tv.php?c=tlc"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tnt.jpg",
+    "title": "TNT",
+    "url": "https://playertv.net/tv.php?c=tnt"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tntnovelas.jpg",
+    "title": "TNT Novelas",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=tntnovelas"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tntseries.jpg",
+    "title": "TNT Series",
+    "url": "https://playertv.net/tv.php?c=tnt-serie"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tooncast.jpg",
+    "title": "Tooncast",
+    "url": "https://playertv.net/tv.php?c=tooncast"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-travelboxbrazil.jpg",
+    "title": "Travel Box Brazil",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=travelboxbrazil"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-trutv.jpg",
+    "title": "TruTV",
+    "url": "https://sinalpublico.com/player3/ch.php?canal=trutv"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-universal.jpg",
+    "title": "Universal TV",
+    "url": "https://playertv.net/tv.php?c=universal"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-viva.jpg",
+    "title": "Viva",
+    "url": "https://playertv.net/tv.php?c=viva"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-warner.jpg",
+    "title": "Warner TV",
+    "url": "https://playertv.net/tv.php?c=warner"
+  },
+  {
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-woohoo.jpg",
+    "title": "Woohoo",
+    "url": "https://playertv.net/tv.php?c=woohoo"
+  },
+  {
+    "img": "https://www.ofuxico.com.br/img/upload/noticias/2011/05/25/108961_36.jpg",
+    "title": "TV Rá Tim Bum",
+    "url": "https://playertv.net/tv.php?c=tv-ra-tim-bum"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3-cd1wu3fIY8Wk_yQyjG7Dt4RN5AIvuYUA&usqp=CAU",
+    "title": "Tv Cultura",
+    "url": "https://playertv.net/tv.php?c=cultura"
+  }
+]
