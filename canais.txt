@@ -55,7 +55,7 @@
     "url": "https://sinalpublico.com/player3/ch.php?canal=ufcfightpass"
   },
   {
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvl0DDC0jMmxcRs5Ic9E6K0ke6sLI-J_wqhA&usqp=CAU",
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
     "title": "NBA TV",
     "url": "https://playertv.net/tv.php?c=nba"
   },
@@ -235,7 +235,7 @@
     "url": "https://playertv.net/tv.php?c=fox-sports2"
   },
   {
-    "img": "https://d3un0zjblgkxzb.cloudfront.net/drupal/public/styles/imagem_paragraph_foto/public/media/image/2022-07/Futura%20logo%20nova.jpg.jpeg?VersionId=8Mgo6315Gr_OKG6rgM9zsEZFQxpX_MfW&itok=p8tcAFep",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
     "title": "Futura",
     "url": "https://playertv.net/tv.php?c=futura"
   },
@@ -250,12 +250,12 @@
     "url": "https://playertv.net/tv.php?c=globo-news"
   },
   {
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
     "title": "Globo BA",
     "url": "https://sinalpublico.com/player3/ch.php?canal=bobonordeste"
   },
   {
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
     "title": "Globo MG",
     "url": "https://playertv.net/tv.php?c=globo-mg"
   },
@@ -596,12 +596,12 @@
     "url": "https://playertv.net/tv.php?c=woohoo"
   },
   {
-    "img": "https://www.ofuxico.com.br/img/upload/noticias/2011/05/25/108961_36.jpg",
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
     "title": "TV Rá Tim Bum",
     "url": "https://playertv.net/tv.php?c=tv-ra-tim-bum"
   },
   {
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3-cd1wu3fIY8Wk_yQyjG7Dt4RN5AIvuYUA&usqp=CAU",
+    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
     "title": "Tv Cultura",
     "url": "https://playertv.net/tv.php?c=cultura"
   }
