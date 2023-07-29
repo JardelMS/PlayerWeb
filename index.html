@@ -1,60 +1,47 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>JARDEL DEV | CINEMOVIES</title>
-  <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-  <script src="https://unpkg.com/video.js/dist/video.js"></script>
-  <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      height: 80%;
-      overflow: hidden;
-    }
-    
-    #my_video_1 {
-      position: fixed;
-      top: 10;
-      right: 10;
-      bottom: 10;
-      left: 10;
-      width: 100%;
-      height: 100%;
-    }
-  </style>
+    <title>Player de Vídeo</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* Esconde barras de rolagem */
+        }
+
+        #video-player {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none; /* Remove a borda do iframe */
+        }
+    </style>
 </head>
 <body>
-  <video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto" data-setup='{}'>
-    <source id="video_source" src="" type="application/x-mpegURL">
-  </video>
-  
-  <script>
-    var player = videojs('my_video_1');
-    player.play();
+    <div id="video-player">
+        <!-- O iframe será criado aqui -->
+    </div>
 
-    
-    // Obter o URL da query string
-    var queryString = window.location.search;
-    var urlParams = new URLSearchParams(queryString);
-    var url = decodeURIComponent(urlParams.get('url'));
-    
-    // Atualizar a origem do vídeo com o URL fornecido na query string
-    if (url) {
-      updateVideoSource(url);
-    }
-    
-    // Função para atualizar a origem do vídeo com o novo link M3U8
-    function updateVideoSource(url) {
-      var videoSource = document.getElementById('video_source');
-      videoSource.setAttribute('src', url);
-      player.src({
-        src: url,
-        type: 'application/x-mpegURL'
-      });
-      player.play();
-    }
-  </script>
+    <script>
+        // Obtém o parâmetro da URL "index.m3u8"
+        const urlParam = new URLSearchParams(window.location.search);
+        const videoUrl = urlParam.get("api");
+
+        // Cria o iframe com a URL do vídeo
+        const iframe = document.createElement("iframe");
+        iframe.setAttribute("src", videoUrl);
+        iframe.setAttribute("frameborder", "0");
+        iframe.setAttribute("allowfullscreen", "");
+
+        // Adiciona o iframe ao elemento com id "video-player"
+        document.getElementById("video-player").appendChild(iframe);
+    </script>
 </body>
 </html>
