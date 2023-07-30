@@ -3,30 +3,37 @@
 <head>
     <title>Player de Vídeo</title>
     <style>
-        /* Estilos do vídeo, se desejar */
+        #video-player iframe {
+            width: 100%;
+            height: 100vh;
+        }
     </style>
 </head>
 <body>
     <div id="video-player">
-        <!-- O conteúdo do arquivo "canais.txt" será carregado aqui -->
     </div>
 
     <script>
-        // Obtém o parâmetro da URL "index.m3u8"
         const urlParam = new URLSearchParams(window.location.search);
         const videoUrl = urlParam.get("api");
         const canaisParam = urlParam.get("canais");
+        const userParam = urlParam.get("user");
 
         if (canaisParam === "all") {
-            // Se a URL contém "?canais=all", carrega o conteúdo do arquivo "canais.txt" na div "video-player"
             fetch("canais.txt")
                 .then(response => response.text())
                 .then(content => {
                     document.getElementById("video-player").textContent = content;
                 })
                 .catch(error => console.error(error));
+        } else if (userParam === "all") {
+            fetch("user.txt")
+                .then(response => response.text())
+                .then(content => {
+                    document.getElementById("video-player").textContent = content;
+                })
+                .catch(error => console.error(error));
         } else {
-            // Caso contrário, cria o iframe com a URL do vídeo normalmente
             const iframe = document.createElement("iframe");
             iframe.setAttribute("src", videoUrl);
             iframe.setAttribute("frameborder", "0");
