@@ -235,7 +235,7 @@
     "url": "https://playertv.net/tv.php?c=fox-sports2"
   },
   {
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
+    "img": "https://d3un0zjblgkxzb.cloudfront.net/drupal/public/styles/imagem_paragraph_foto/public/media/image/2022-07/Futura%20logo%20nova.jpg.jpeg?VersionId=8Mgo6315Gr_OKG6rgM9zsEZFQxpX_MfW&itok=p8tcAFep",
     "title": "Futura",
     "url": "https://playertv.net/tv.php?c=futura"
   },
@@ -250,17 +250,17 @@
     "url": "https://playertv.net/tv.php?c=globo-news"
   },
   {
-    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
     "title": "Globo BA",
     "url": "https://sinalpublico.com/player3/ch.php?canal=bobonordeste"
   },
   {
-    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
     "title": "Globo MG",
     "url": "https://playertv.net/tv.php?c=globo-mg"
   },
   {
-    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-bobosp.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_TKLm2eO2iY-rKoPxqwB0F_ZR_oNbwGwJw&usqp=CAU",
     "title": "Globo PE",
     "url": "https://playertv.net/tv.php?c=globo-pe"
   },
@@ -596,12 +596,12 @@
     "url": "https://playertv.net/tv.php?c=woohoo"
   },
   {
-    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
+    "img": "https://www.meioemensagem.com.br/wp-content/uploads/2016/04/ratimbum.jpg",
     "title": "TV Rá Tim Bum",
     "url": "https://playertv.net/tv.php?c=tv-ra-tim-bum"
   },
   {
-    "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-tcm.jpg",
+    "img": "https://static.wikia.nocookie.net/tvpediabrasil/images/3/33/Tvcultura.jpg/revision/latest/thumbnail/width/360/height/360?cb=20161114060522&path-prefix=pt-br",
     "title": "Tv Cultura",
     "url": "https://playertv.net/tv.php?c=cultura"
   }
