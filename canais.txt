@@ -1,13 +1,5 @@
 [
- {
-  "sliderimg": "https://raw.githubusercontent.com/JardelMS/PlayerWeb/main/1690819854942.png",
-  "acao": "https://wa.me/5565996441294?text=Ol%C3%A1+tudo+bem+quero+obter+o+plano%21"
-   },
-   {
-  "sliderimg": "https://raw.githubusercontent.com/JardelMS/PlayerWeb/main/1690819129352.jpg",
-  "acao": "https://wa.me/5565996441294?text=Ol%C3%A1+tudo+bem+quero+obter+o+plano%21"
-   }, 
-   {
+  {
     "img": "https://xn--90afacaz8cml9ac9f.xn--p1ai/assets/imgs-videos/Canais/thumb-paramountplus1.jpg",
     "title": "Paramount+ 1",
     "url": "https://sinalpublico.com/player3/ch.php?canal=paramountplus1"
